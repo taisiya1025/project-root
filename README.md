@@ -102,7 +102,7 @@ project-root/
 ---
 
 ## Авторы и роли
-- **Студент (Имя Фамилия)** — Fullstack Developer & DevOps.
+- **Студент (Крячко таисия Андреевна)** — Fullstack Developer & DevOps.
     - Проектирование микросервисной архитектуры.
     - Разработка API и интеграция сервисов.
     - Дизайн и разработка Frontend части.
@@ -110,6 +110,6 @@ project-root/
 
 ## Обратная связь
 По вопросам работы прототипа или баг-репортам:
-- **Email**: [student@example.com]
-- **GitHub**: [link_to_profile]
+- **Email**: [taisiya.kryachko@gmail.com]
+- **GitHub**: [taisiya1025]
 
